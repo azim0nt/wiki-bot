@@ -2,3 +2,5 @@ python-telegram-bot
 logging
 wikiapi
 python-dotenv
+numpy==1.23.5
+pandas==1.5.3
